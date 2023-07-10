@@ -1,0 +1,24 @@
+body {
+  padding: 1%;
+}
+
+.card {
+  margin-bottom: 10%;
+}
+
+.fintech-title {
+  font-size: 32px;
+  margin-left: 2%;
+}
+
+.button {
+  min-width: 150px;
+}
+
+.login-card {
+  padding: 5%;
+}
+
+.login-field {
+  margin-bottom: 5%;
+}
